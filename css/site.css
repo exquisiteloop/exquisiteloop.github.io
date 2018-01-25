@@ -1,0 +1,43 @@
+h1, h2, h3 {
+	
+}
+
+.logo-area {
+	margin: 40px auto;
+	text-align: center;
+}
+
+.logo {
+	font-family: 'Indie Flower', cursive;
+	font-weight:bold;
+}
+
+.logo-large {
+	font-size:64pt;
+}
+
+.logo-small {
+	font-size:20pt;
+}
+
+.nav-container {
+	max-width:700px;
+}
+
+.page-container {
+	max-width:700px;
+	padding-top:20px;
+}
+
+div.footer {
+	margin-top:25px;
+	padding-top:15px;
+	width:100%;
+	text-align:center;
+	border-top:1px #ececec solid;
+	font-size:9pt;
+}
+
+.tagline {
+	margin-top:20px;
+}
